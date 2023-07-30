@@ -41,13 +41,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Ridzwan is a product designer who is transitioning into cloud engineering. He has experience in <a href="https://ridzwan.design" title="UX portfolio">product design</a> and is now looking to apply his skills to cloud engineering. He is excited about the opportunities that cloud engineering offers and is eager to learn more about this field.
+        Ridzwan is a product designer who is transitioning into cloud
+        engineering. He has experience in <LinkButton
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://ridzwan.design"
+          target="_blank"
+        >
+          product design
+        </LinkButton>. and is now looking to apply his skills to cloud
+        engineering. He is excited about the opportunities that cloud
+        engineering offers and is eager to learn more about this field.
       </p>
       <p>
         Read the blog posts. This blog is hosted on
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://github.com/omgsian/cahaya"
+          target="_blank"
         >
           Github
         </LinkButton>.
@@ -73,7 +83,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             <ul>
               {featuredPosts.map(({ data }) => (
                 <Card
-                
                   href={`${import.meta.env.BASE_URL}posts/${slugify(data)}`}
                   frontmatter={data}
                   secHeading={false}
