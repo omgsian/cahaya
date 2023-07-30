@@ -8,6 +8,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: "https://omgsian.github.io/cahaya", // replace this with your deployed domain
+  base: "/cahaya",
   integrations: [
     tailwind({
       config: {
