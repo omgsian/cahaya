@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://omgsian.github.io/cahaya/",
   author: "Ridzwan",
   desc: "Documenting my journey transitioning from product design to cloud engineering",
-  title: "Journey Into Cloud",
+  title: "Light The Cloud",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
