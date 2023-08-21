@@ -3,7 +3,9 @@ title: "About"
 layout: ../layouts/AboutLayout.astro
 ---
 
-I am an aspiring cloud engineer with a passion for designing and engineering the invisible services that power modern applications. In my previous role as a product designer and researcher in the technology industry, I gained a deep understanding of the user experience and challenges of building scalable and reliable systems. I'm excited for this part my career, and hope to contribute to the next generation of cloud-based applications.
+I am an aspiring cloud engineer with a passion for designing and
+engineering the invisible services that power modern applications. In my
+previous role as a <LinkButton className="hover:text-skin-accent underline underline-offset-4 decoration-dashed" href="https://ux.ridzwanharon.com"> product designer and researcher</LinkButton> in the technology industry, I gained a deep understanding of the user needs and challenges of building scalable and reliable systems. I'm excited by this stage in my career, and hope to contribute to the next generation of cloud-based applications.
 
 # My values
 
