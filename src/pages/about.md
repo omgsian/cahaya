@@ -1,36 +1,22 @@
 ---
-layout: ../layouts/AboutLayout.astro
 title: "About"
+layout: ../layouts/AboutLayout.astro
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I am an aspiring cloud engineer with a passion for designing and engineering the invisible services that power modern applications. In my previous role as a product designer and researcher in the technology industry, I gained a deep understanding of the user experience and challenges of building scalable and reliable systems. I'm excited for this part my career, and hope to contribute to the next generation of cloud-based applications.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+# My values
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+- **Transparency.** I am honest and open with my values and beliefs, which builds trust and fosters genuine relationships.
+- **Closeness.** I value strong relationships and make an effort to get to know others, listen to their goals, and support their growth.
+- **Connection.** I enjoy introducing people and sharing my connections. I believe in paying it forward by connecting others to people I know.
+- **Knowledge sharing.** I enjoy sharing my knowledge and experience with others. I appreciate it when others do the same for me.
+- **Continuous learning.** I am curious about the world and committed to lifelong learning. I am constantly expanding my knowledge and seeking to broaden my understanding of the world.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+# Skillset
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- **Programming languages:** HTML/CSS, JavaScript, SQL, Python, Bash, Tailwind, SCSS
+- **DevOps & Automation:** Git, Docker, Ansible, Terraform, Github Actions, Jenkins
+- **Design:** Figma, UX/UI Design, Usability Testing, Proof of Concept (PoC) Prototyping, Value Testing, UX Research (Quantitative & Qualitative)
+- **Business:** Agile, Stakeholder Engagement, Business Process Re-engineering, Strategic Communications, Negotiation, Project Management
+- **Language:** English (Professional), Malay (Native), Indonesian (Fluent), and Mandarin (Basic)
