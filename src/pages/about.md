@@ -15,7 +15,7 @@ I am an aspiring cloud engineer with a passion for designing and engineering the
 
 # Skillset
 
-- **Programming languages:** HTML/CSS, JavaScript, SQL, Python, Bash, Tailwind, SCSS
+- **Programming languages:** HTML/CSS, JavaScript, SQL, Python, Bash, Tailwind.
 - **DevOps & Automation:** Git, Docker, Ansible, Terraform, Github Actions, Jenkins
 - **Design:** Figma, UX/UI Design, Usability Testing, Proof of Concept (PoC) Prototyping, Value Testing, UX Research (Quantitative & Qualitative)
 - **Business:** Agile, Stakeholder Engagement, Business Process Re-engineering, Strategic Communications, Negotiation, Project Management
