@@ -3,7 +3,7 @@ author: Ridzwan Haron
 pubDatetime: 2023-09-06T10:30:00Z
 title: My first week of learning Azure
 postSlug: first-week-learning-azure
-featured: true
+featured: false
 draft: false
 tags:
   - reflections
